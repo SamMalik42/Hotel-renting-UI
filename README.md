@@ -2,7 +2,9 @@ Minimalistic and modern-looking unique UI of a renting app built with flutter fo
 
 # Preview:
 
-https://raw.githubusercontent.com/SamMalik42/Hotel-renting-UI/main/UI.jpeg
+![UI](https://user-images.githubusercontent.com/82595731/191955559-e58bcc10-13e7-4ce3-9b95-f3c00004b589.jpeg)
+
+
 
 
 ## Features:
